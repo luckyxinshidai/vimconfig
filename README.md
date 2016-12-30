@@ -24,7 +24,8 @@ $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ## Install other plugins
 
-Launch vim and run`:PluginInstall`command or run `vim +PluginInstall +qall` from command line directly. After done that, please go to <https://github.com/Valloric/YouCompleteMe> to see more about the installation of YouCompleteMe plugin.
+Launch vim and run`:PluginInstall`command or run `vim +PluginInstall +qall` from command line directly.  
+After done that, please go to <https://github.com/Valloric/YouCompleteMe> or use `:help youcompleteme` command to see more about the installation of YouCompleteMe plugin.
 
 ## Install powerline fonts
 

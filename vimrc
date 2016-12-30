@@ -71,6 +71,9 @@ filetype plugin indent on
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Set utf8 as standard encoding
+set encoding=utf8
+
 " Sets how many lines of history VIM has to remember
 set history=50
 
@@ -210,9 +213,6 @@ set nobackup
 
 " Set to auto read when a file is changed from the outside
 set autoread
-
-" Set utf8 as standard encoding and en_US as the standard language
-set encoding=utf8
 
 " Use Unix as the standard file type
 set fileformats=unix,dos,mac
